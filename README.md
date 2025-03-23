@@ -6,6 +6,7 @@ Check out the tutorial
 ## Install Requirements
 
     pip install -r requirements.txt
+    pip install .
 
 ## Usage
 
